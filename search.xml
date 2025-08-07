@@ -3,8 +3,8 @@
   <entry>
     <title>Hello World</title>
     <url>/2025/06/07/hello-world/</url>
-    <content><![CDATA[<span id="more"></span>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
 <h2 id="Quick-Start">Quick Start</h2>
 <h3 id="Create-a-new-post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
@@ -350,5 +350,253 @@
 <span id="more"></span>
 <p><a href="https://readme-typing-svg.demolab.com/demo/">友情链接</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>CSP-J冲刺!</title>
+    <url>/2025/06/16/CSP-J%E5%86%B2%E5%88%BA/</url>
+    <content><![CDATA[<h1>洛谷题单(2020-2024)</h1>
+<span id="more"></span>
+<ul class="lvl-0">
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7071">P7071 [CSP-J2020] 优秀的拆分</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7072">P7072 [CSP-J2020] 直播获奖</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7073">P7073 [CSP-J2020] 表达式</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7074">P7074 [CSP-J2020] 方格取数</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7909">P7909 [CSP-J 2021] 分糖果</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7910">P7910 [CSP-J 2021] 插入排序</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7911">P7911 [CSP-J 2021] 网络连接</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P7912">P7912 [CSP-J 2021] 小熊的果篮</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P8813">P8813 [CSP-J 2022] 乘方</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P8814">P8814 [CSP-J 2022] 解密</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P8815">P8815 [CSP-J 2022] 逻辑表达式</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P8816">P8816 [CSP-J 2022] 上升点列</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P9748">P9748 [CSP-J 2023] 小苹果</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P9749">P9749 [CSP-J 2023] 公路</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P9750">P9750 [CSP-J 2023] 一元二次方程</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P9751">P9751 [CSP-J 2023] 旅游巴士</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P11227">P11227 [CSP-J 2024] 扑克牌</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P11228">P11228 [CSP-J 2024] 地图探险</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P11229">P11229 [CSP-J 2024] 小木棍</a></p>
+</li>
+<li class="lvl-2">
+<p><a href="https://www.luogu.com.cn/problem/P11230">P11230 [CSP-J 2024] 接龙</a></p>
+</li>
+</ul>
+<h2 id="代码与题解">代码与题解</h2>
+<p>敬请期待</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>new</title>
+    <url>/2025/08/04/new/</url>
+    <content><![CDATA[<h1>P3397 地毯</h1>
+<span id="more"></span>
+<h2 id="题目描述">题目描述</h2>
+<p>在 $n\times n$ 的格子上有 $m$ 个地毯。</p>
+<p>给出这些地毯的信息，问每个点被多少个地毯覆盖。</p>
+<h2 id="输入格式">输入格式</h2>
+<p>第一行，两个正整数 $n,m$。意义如题所述。</p>
+<p>接下来 $m$ 行，每行两个坐标 $(x_1,y_1)$ 和 $(x_2,y_2)$，代表一块地毯，左上角是 $(x_1,y_1)$，右下角是 $(x_2,y_2)$。</p>
+<h2 id="输出格式">输出格式</h2>
+<p>输出 $n$ 行，每行 $n$ 个正整数。</p>
+<p>第 $i$ 行第 $j$ 列的正整数表示 $(i,j)$ 这个格子被多少个地毯覆盖。</p>
+<h2 id="输入输出样例-1">输入输出样例 #1</h2>
+<h3 id="输入-1">输入 #1</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">5 3</span><br><span class="line">2 2 3 3</span><br><span class="line">3 3 5 5</span><br><span class="line">1 2 1 4</span><br></pre></td></tr></table></figure>
+<h3 id="输出-1">输出 #1</h3>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">0 1 1 1 0</span><br><span class="line">0 1 1 0 0</span><br><span class="line">0 1 2 1 1</span><br><span class="line">0 0 1 1 1</span><br><span class="line">0 0 1 1 1</span><br></pre></td></tr></table></figure>
+<h2 id="说明-提示">说明/提示</h2>
+<h3 id="样例解释">样例解释</h3>
+<p>覆盖第一个地毯后：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+</tr>
+</tbody>
+</table>
+<p>覆盖第一、二个地毯后：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$0$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$2$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+</tr>
+</tbody>
+</table>
+<p>覆盖所有地毯后：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">$0$</th>
+<th style="text-align:center">$1$</th>
+<th style="text-align:center">$1$</th>
+<th style="text-align:center">$1$</th>
+<th style="text-align:center">$0$</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$2$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+</tr>
+<tr>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$0$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+<td style="text-align:center">$1$</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="数据范围">数据范围</h3>
+<p>对于 $20%$ 的数据，有 $n\le 50$，$m\le 100$。</p>
+<p>对于 $100%$ 的数据，有 $n,m\le 1000$。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>luogu</title>
+    <url>/2025/08/06/luogu/</url>
+    <content><![CDATA[<p>你好,$\alpha\beta\gamma$</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css" integrity="sha384-GvrOXuhMATgEsSwCs4smul74iXGOixntILdUW9XmUC6+HX0sLNAK3q71HotJqlAn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js" integrity="sha384-cpW21h6RZv/phavutF+AuVYrr+dA8xD9zs6FwLpaCct6O9ctzYFfFr4dgmgccOTx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          // customised options
+          // • auto-render specific keys, e.g.:
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          // • rendering keys, e.g.:
+          throwOnError : false
+        });
+    });
+</script>]]></content>
   </entry>
 </search>
